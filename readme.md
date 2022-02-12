@@ -20,7 +20,7 @@ Official Bot : [VCPlayerBot](https://telegram.me/vcplayerbot)   |   Discussion G
 1. Get your telegram API ID and API HASH from my.telegram.org and the BOT TOKEN from [@botfather](https://t.me/botfather)
 2. Generate your telegram session string using the `Run on Repl` button below (Click on run after opening the url below) or use the `generateSession.py` file or read the steps [mentioned here](get_session_string.md).
 
-- [![Run on Repl.it](https://repl.it/badge/github/kshubham506/vcplayerbot)](https://replit.com/@kshubham506/GenerateSession?lite=1&outputonly=1)
+- [![Run on Repl.it](https://repl.it/badge/github/sohan-04/vcplayerbot)](https://replit.com/@kshubham506/GenerateSession?lite=1&outputonly=1)
 
 
 3. Click on the `Deploy to Heroku` button below. Fill in the required fields on the website that opens.
